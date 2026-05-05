@@ -1,0 +1,8 @@
+{
+  "status": true,
+  "score": {
+    "public_a": 0.4893,
+    "private_b": 0.5724
+  },
+  "msg": "MAE scoring completed."
+}
